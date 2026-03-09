@@ -1,14 +1,10 @@
-<h1 align="center">Hi there, I'm Adam Huang 👋</h1>
+<img align="right" width="150px" src="https://raw.githubusercontent.com/tal-tech/zero-doc/main/doc/images/go-zero.png">
 
-<p align="center">
-  Backend Engineer focused on <b>Go</b>, <b>microservices</b>, and <b>cloud-native technologies</b>.
-</p>
+### Hi there, I'm Adam Huang 👋
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=unicornshjl&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+Backend Engineer focused on **Go**, **microservices**, and **cloud-native technologies**.
 
----
+<img src="https://komarev.com/ghpvc/?username=unicornshjl&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 
 ## About Me
 
@@ -17,19 +13,16 @@
 - Former competitive programmer
 - **Bronze Medalist** in **CCPC Zhengzhou** and **ICPC Wuhan**
 
----
-
 ## Education
 
 - **North China Electric Power University**
 - Bachelor's Degree
 
----
-
 ## Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/go--zero-00BFA6?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Gin-008ECF?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=grpc&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -40,8 +33,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
----
-
 ## Featured Projects
 
 ### [algorithm-coding](https://github.com/unicornshjl/algorithm-coding)
@@ -50,16 +41,12 @@ My algorithm and competitive programming repository, including problem-solving n
 ### [Sea-RideTheWind](https://github.com/Sea-Go/Sea-RideTheWind)
 A Go-based microservices and cloud-native project focused on backend engineering practice.
 
----
-
 ## Current Focus
 
 - Building backend services with Go
 - Learning more about cloud-native infrastructure
 - Exploring microservices architecture and engineering best practices
 - Improving system design and distributed systems knowledge
-
----
 
 ## Contact
 
