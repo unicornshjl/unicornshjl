@@ -52,14 +52,6 @@ A Go-based microservices and cloud-native project focused on backend engineering
 
 ---
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=unicornshjl&show_icons=true&hide_border=true&cache_seconds=1800)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unicornshjl&layout=compact&hide_border=true&cache_seconds=1800)
-
----
-
 ## Current Focus
 
 - Building backend services with Go
