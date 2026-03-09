@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there,I am Adam Huang 👋
+
+A Backend developer focused on Go and cloud-native technologies.
+
+- Former competitive programmer, awarded Bronze Medal in CCPC Zhengzhou and ICPC Wuhan.
+- Currently working as a Go engineer, interested in cloud-native technologies, microservices, and backend engineering.
 
 <!--
 **unicornshjl/unicornshjl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
