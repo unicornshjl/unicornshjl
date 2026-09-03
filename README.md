@@ -49,4 +49,4 @@ A Go-based microservices and cloud-native project focused on backend engineering
 
 ## Contact
 
-- Email: unicornshjl@ncepu.edu.cn
+- Email: unicornshjl@gmail.com
