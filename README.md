@@ -1,52 +1,45 @@
-<img align="right" width="150px" src="https://raw.githubusercontent.com/tal-tech/zero-doc/main/doc/images/go-zero.png">
+<h1 align="center">Hi, I'm Adam Huang 👋</h1>
 
-### Hi there, I'm Adam Huang 👋
+<p align="center">
+  <strong>Undergraduate Researcher | AI for Software Engineering (AI4SE)</strong>
+</p>
 
-Backend Engineer focused on **Go**, **microservices**, and **cloud-native technologies**.
 
-<img src="https://komarev.com/ghpvc/?username=unicornshjl&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+<p align="center">
+  <strong>Agentic Performance Analysis & Optimization · SWE Agents · Code Generation</strong>
+</p>
+
 
 ## About Me
 
-- Backend engineer mainly working with **Go**
-- Interested in **cloud-native technologies**, **microservices**, and **distributed systems**
-- Former competitive programmer
-- **Bronze Medalist** in **CCPC Zhengzhou** and **ICPC Wuhan**
+- Undergraduate student at **North China Electric Power University**.
+- My primary interest is **AI4SE**, especially using **LLM-based agents to analyze and optimize the performance of real-world software**.
+- I also work on **SWE agents**, **repository-level code generation**, and automated code modification.
+- Former ACMer; bronze medalist at **CCPC Zhengzhou Regional** and **ICPC Wuhan Regional**.
 
-## Education
+## Research Interests
 
-- **North China Electric Power University**
-- Bachelor's Degree
+### 🚀 Agentic Performance Optimization
 
-## Tech Stack
+Using LLM-based agents to **identify performance bottlenecks, propose code transformations, and iteratively improve runtime performance** while preserving functional correctness.
 
-<p>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/go--zero-00BFA6?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=grpc&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+### 🛠️ SWE Agents & Code Generation
 
-## Featured Projects
+Studying agents for **repository-level code understanding and generation**, issue resolution, automated code editing, and test-driven feedback on real-world software engineering tasks.
 
-### [algorithm-coding](https://github.com/unicornshjl/algorithm-coding)
-My algorithm and competitive programming repository, including problem-solving notes and solutions from the ICPC / CCPC period.
+### 🔍 Performance Analysis & Profiling
 
-### [Sea-RideTheWind](https://github.com/Sea-Go/Sea-RideTheWind)
-A Go-based microservices and cloud-native project focused on backend engineering practice.
+Exploring how **runtime profiling, hotspot analysis, and benchmark feedback** can guide an agent's optimization decisions, including robust measurement of speedups and performance regressions.
 
-## Current Focus
+### 📊 Evaluation of Coding Agents
 
-- Building backend services with Go
-- Learning more about cloud-native infrastructure
-- Exploring microservices architecture and engineering best practices
-- Improving system design and distributed systems knowledge
+Evaluating **functional correctness, speedup, reliability, and efficiency**, with particular attention to the challenges of measuring automated performance optimization.
+
+## Competitive Programming
+
+- **CCPC Zhengzhou Regional** — Bronze Medal
+- **ICPC Wuhan Regional** — Bronze Medal
 
 ## Contact
 
-- Email: unicornshjl@gmail.com
+- **Email:** [unicornshjl@gmail.com](mailto:unicornshjl@gmail.com)
